@@ -1,0 +1,15 @@
+routesid, routesairportFrom, routesairportIn, routesdepartureDateTime, routesarrivingDateTime, routesflyLength, routesstatus, routesplaneId, planesid, planesmodel, planesmaxPeopleCapacity, planesmaxFlyLength, planesstatus
+0, Babagama, BELGER, +99999999-12-31T23:59:59.99999999, +999999999-12-31T23:59:59.999999999, 1256, AVAILABLE, 0, 0, Boing, 100, 12000, AVAILABLE
+Workers: 
+0, John, Karmak, STEWARDESS, FINE, 0
+1, Senya, Veliki, PILOT, FINE, 0
+2, Alex, vert, STEWARDESS, FINE, 0
+
+
+
+routesid, routesairportFrom, routesairportIn, routesdepartureDateTime, routesarrivingDateTime, routesflyLength, routesstatus, routesplaneId, planesid, planesmodel, planesmaxPeopleCapacity, planesmaxFlyLength, planesstatus
+1, AmericaDfasaf, BlerusAirport, +99999999-12-31T23:59:59.99999999, +999999999-12-31T23:59:59.999999999, 1256, AVAILABLE, 1, 1, Boing2, 120, 15000, AVAILABLE
+Workers: 
+
+
+

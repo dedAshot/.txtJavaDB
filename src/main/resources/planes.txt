@@ -1,0 +1,4 @@
+id, model, maxPeopleCapacity, maxFlyLength, status
+0, Boing, 100, 12000, AVAILABLE
+1, Boing2, 120, 15000, AVAILABLE
+2, Plane3, 95, 9000, AVAILABLE

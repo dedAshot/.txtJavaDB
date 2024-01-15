@@ -1,0 +1,16 @@
+id, name, serName, profession, status, routeId
+0, John, Karmak, STEWARDESS, FINE, 0
+1, Senya, Veliki, PILOT, FINE, 0
+2, Alex, vert, STEWARDESS, FINE, 0
+3, Vladislave, BRUNDLER, PILOT, FINE, 1
+4, Natasha, Stepanova, STEWARDESS, FINE, 0
+5, Oksana, Gromova, STEWARDESS, FINE, 0
+6, Kseniya, Borisovna, STEWARDESS, FINE, 0
+7, Igul, Ahmatovna, STEWARDESS, FINE, 1
+8, Geon, See, STEWARDESS, FINE, 1
+9, Anton, Mihailov, STEWARDESS, FINE, 1
+10, Nikita, Brandler, STEWARDESS, FINE, 1
+11, Grigorii, Bigovich, STEWARDESS, FINE, 1
+12, Lena, Brestovna, STEWARDESS, FINE, null
+13, Lena, Golovach, STEWARDESS, FINE, null
+14, Oksana, Gorova, STEWARDESS, FINE, null

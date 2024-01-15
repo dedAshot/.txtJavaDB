@@ -1,0 +1,3 @@
+id, airportFrom, airportIn, departureDateTime, arrivingDateTime, flyLength, status, planeId
+0, Babagama, BELGER, +99999999-12-31T23:59:59.99999999, +999999999-12-31T23:59:59.999999999, 1256, AVAILABLE, 0
+1, AmericaDfasaf, BlerusAirport, +99999999-12-31T23:59:59.99999999, +999999999-12-31T23:59:59.999999999, 1256, AVAILABLE, 1
